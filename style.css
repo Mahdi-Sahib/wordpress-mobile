@@ -1,0 +1,136 @@
+
+.cart-empty{
+    text-align: center;
+    margin:auto;
+    margin-top:20%;
+    display:block;
+    font-size: 16px;
+}
+
+.wrapper-cart-empty {
+    text-align: center;
+    
+}
+
+.button-cart-empty {
+    width: 50%;
+    margin:auto;
+    margin-top:2%;
+    display:block;
+    padding: 12px 28px;
+     background-color: #4CAF50; /* Green */
+    border: none;
+     color: white;
+     font-size: 16px;
+}
+
+
+.row .col-80 {
+    display: none;
+}
+
+.woocommerce-order-details {
+    padding-right:20px;
+    padding-left: 20px;
+}
+
+
+.woocommerce-customer-details{
+    padding-right:20px;
+    padding-left: 20px;
+}
+
+.empty-state h2 {
+    display: none;
+    margin-top: 10px;
+}
+
+.product-grid .product-price {
+    bottom: 0px;
+    margin-top: 0px;
+    position: relative;
+}
+
+.onsale {
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-top-width: 5px;
+    border-top-style: solid;
+}
+
+.product-grid .price .amount {
+
+    width: 68.8px;
+    height: 16.5px;
+    display: block;
+    padding-right: 5px;
+
+}
+
+.price ins .amount {
+
+    float: right;
+    padding-right: 5px;
+    margin-right: 0px;
+
+}
+
+.price del .amount {
+
+    color: #f3c1c1;
+    font-size: 10px;
+    text-decoration: line-through;
+    padding-right: 5px;
+}
+
+.rtl .product-grid .shop-add-to-cart {
+    border-bottom-width: 0px;
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+.product-grid .card .footer .title {
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+.tabbar a.tab-link {
+    font-weight: bold;
+}
+
+.toolbar-button .button {
+    font-weight: bold;
+  
+}
+
+.single-product .onsale {
+    right: 0;
+    left: initial;
+}
+
+.price ins .amount {
+    margin-top: -4px;
+}
+
+.content-block-title {
+    margin-top: 0px;
+}
+
+.list-block li.media-item .item-inner, .list-block.media-list .item-inner {
+    padding-top: 26px;
+}
+
+.button, .is-material .notifications .button.close-notification, .is-ios .list-block .item-link.list-button {
+    font-weight: bold;
+}
+
+
+
+
+.del_item {
+    padding-top: 30px;
+    text-align: center;
+    color: red;
+}
